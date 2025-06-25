@@ -40,7 +40,7 @@ Este é um projeto simples feito para praticar a estruturação de páginas com 
 
 ## 📷 Captura de tela (opcional)
 
-![Descrição da imagem](assets/image.png)
+![Descrição da imagem](assests/image.png)
 
 
 ---
